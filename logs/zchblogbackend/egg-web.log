@@ -1,0 +1,70 @@
+2019-03-29 22:11:20,862 INFO 5284 [egg:logger] init all loggers with options: {"dir":"/Users/zch/Desktop/zch_blog_backend/logs/zchblogbackend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"zchblogbackend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-29 22:11:20,898 INFO 5284 [egg-multipart] stream mode enable
+2019-03-29 22:11:20,993 INFO 5284 [egg-static] starting static serve /public/ -> /Users/zch/Desktop/zch_blog_backend/app/public
+2019-03-29 22:11:20,996 INFO 5284 [egg-security] use csrf middleware
+2019-03-29 22:11:20,998 INFO 5284 [egg-security] use methodnoallow middleware
+2019-03-29 22:11:20,999 INFO 5284 [egg-security] use noopen middleware
+2019-03-29 22:11:21,000 INFO 5284 [egg-security] use nosniff middleware
+2019-03-29 22:11:21,001 INFO 5284 [egg-security] use xssProtection middleware
+2019-03-29 22:11:21,002 INFO 5284 [egg-security] use xframe middleware
+2019-03-29 22:11:21,003 INFO 5284 [egg-security] use dta middleware
+2019-03-29 22:11:21,003 INFO 5284 [egg-security] compose 7 middlewares into one security middleware
+2019-03-29 22:11:21,012 INFO 5284 [egg:core] dump config after load, 5ms
+2019-03-29 22:11:21,024 INFO 5284 [egg-watcher:application] watcher start success
+2019-03-29 22:11:21,030 INFO 5284 [egg:core] dump config after ready, 4ms
+2019-03-29 22:44:11,965 INFO 5541 [egg:logger] init all loggers with options: {"dir":"/Users/zch/Desktop/zch_blog_backend/logs/zchblogbackend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"zchblogbackend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-29 22:44:12,007 INFO 5541 [egg-multipart] stream mode enable
+2019-03-29 22:44:12,092 INFO 5541 [egg-static] starting static serve /public/ -> /Users/zch/Desktop/zch_blog_backend/app/public
+2019-03-29 22:44:12,095 INFO 5541 [egg-security] use csrf middleware
+2019-03-29 22:44:12,097 INFO 5541 [egg-security] use methodnoallow middleware
+2019-03-29 22:44:12,098 INFO 5541 [egg-security] use noopen middleware
+2019-03-29 22:44:12,099 INFO 5541 [egg-security] use nosniff middleware
+2019-03-29 22:44:12,100 INFO 5541 [egg-security] use xssProtection middleware
+2019-03-29 22:44:12,100 INFO 5541 [egg-security] use xframe middleware
+2019-03-29 22:44:12,101 INFO 5541 [egg-security] use dta middleware
+2019-03-29 22:44:12,101 INFO 5541 [egg-security] compose 7 middlewares into one security middleware
+2019-03-29 22:44:12,110 INFO 5541 [egg:core] dump config after load, 4ms
+2019-03-29 22:44:12,122 INFO 5541 [egg-watcher:application] watcher start success
+2019-03-29 22:44:12,127 INFO 5541 [egg:core] dump config after ready, 3ms
+2019-03-29 22:44:33,060 INFO 5552 [egg:logger] init all loggers with options: {"dir":"/Users/zch/Desktop/zch_blog_backend/logs/zchblogbackend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"zchblogbackend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-03-29 22:44:33,103 INFO 5552 [egg-multipart] stream mode enable
+2019-03-29 22:44:33,138 INFO 5552 [egg-static] starting static serve /public/ -> /Users/zch/Desktop/zch_blog_backend/app/public
+2019-03-29 22:44:33,140 INFO 5552 [egg-security] use csrf middleware
+2019-03-29 22:44:33,140 INFO 5552 [egg-security] use methodnoallow middleware
+2019-03-29 22:44:33,141 INFO 5552 [egg-security] use noopen middleware
+2019-03-29 22:44:33,141 INFO 5552 [egg-security] use nosniff middleware
+2019-03-29 22:44:33,141 INFO 5552 [egg-security] use xssProtection middleware
+2019-03-29 22:44:33,142 INFO 5552 [egg-security] use xframe middleware
+2019-03-29 22:44:33,142 INFO 5552 [egg-security] use dta middleware
+2019-03-29 22:44:33,142 INFO 5552 [egg-security] compose 7 middlewares into one security middleware
+2019-03-29 22:44:33,150 INFO 5552 [egg:core] dump config after load, 4ms
+2019-03-29 22:44:33,160 INFO 5552 [egg-watcher:application] watcher start success
+2019-03-29 22:44:33,165 INFO 5552 [egg:core] dump config after ready, 3ms
+2019-04-30 22:06:00,662 INFO 14554 [egg:logger] init all loggers with options: {"dir":"/Users/zch/Desktop/zch_blog_backend/logs/zchblogbackend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"zchblogbackend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-04-30 22:06:00,743 INFO 14554 [egg-multipart] stream mode enable
+2019-04-30 22:06:00,971 INFO 14554 [egg-static] starting static serve /public/ -> /Users/zch/Desktop/zch_blog_backend/app/public
+2019-04-30 22:06:00,973 INFO 14554 [egg-security] use csrf middleware
+2019-04-30 22:06:00,974 INFO 14554 [egg-security] use methodnoallow middleware
+2019-04-30 22:06:00,974 INFO 14554 [egg-security] use noopen middleware
+2019-04-30 22:06:00,976 INFO 14554 [egg-security] use nosniff middleware
+2019-04-30 22:06:00,976 INFO 14554 [egg-security] use xssProtection middleware
+2019-04-30 22:06:00,977 INFO 14554 [egg-security] use xframe middleware
+2019-04-30 22:06:00,978 INFO 14554 [egg-security] use dta middleware
+2019-04-30 22:06:00,978 INFO 14554 [egg-security] compose 7 middlewares into one security middleware
+2019-04-30 22:06:00,991 INFO 14554 [egg:core] dump config after load, 7ms
+2019-04-30 22:06:01,010 INFO 14554 [egg-watcher:application] watcher start success
+2019-04-30 22:06:01,017 INFO 14554 [egg:core] dump config after ready, 5ms
+2019-04-30 22:06:57,047 INFO 14577 [egg:logger] init all loggers with options: {"dir":"/Users/zch/Desktop/zch_blog_backend/logs/zchblogbackend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"zchblogbackend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-04-30 22:06:57,103 INFO 14577 [egg-multipart] stream mode enable
+2019-04-30 22:06:57,169 INFO 14577 [egg-static] starting static serve /public/ -> /Users/zch/Desktop/zch_blog_backend/app/public
+2019-04-30 22:06:57,172 INFO 14577 [egg-security] use csrf middleware
+2019-04-30 22:06:57,173 INFO 14577 [egg-security] use methodnoallow middleware
+2019-04-30 22:06:57,173 INFO 14577 [egg-security] use noopen middleware
+2019-04-30 22:06:57,174 INFO 14577 [egg-security] use nosniff middleware
+2019-04-30 22:06:57,175 INFO 14577 [egg-security] use xssProtection middleware
+2019-04-30 22:06:57,175 INFO 14577 [egg-security] use xframe middleware
+2019-04-30 22:06:57,176 INFO 14577 [egg-security] use dta middleware
+2019-04-30 22:06:57,176 INFO 14577 [egg-security] compose 7 middlewares into one security middleware
+2019-04-30 22:06:57,186 INFO 14577 [egg:core] dump config after load, 5ms
+2019-04-30 22:06:57,196 INFO 14577 [egg-watcher:application] watcher start success
+2019-04-30 22:06:57,205 INFO 14577 [egg:core] dump config after ready, 5ms

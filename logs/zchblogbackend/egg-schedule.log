@@ -1,0 +1,16 @@
+2019-03-29 22:11:21,036 INFO 5283 [Timer] /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 6518967ms at 2019-03-30 00:00:00.003
+2019-03-29 22:11:21,036 INFO 5283 [Timer] /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 6519964ms at 2019-03-30 00:00:01.000
+2019-03-29 22:11:20,898 INFO 5284 [egg-schedule]: register schedule /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-29 22:11:20,898 INFO 5284 [egg-schedule]: register schedule /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-29 22:44:12,006 INFO 5541 [egg-schedule]: register schedule /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-29 22:44:12,006 INFO 5541 [egg-schedule]: register schedule /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-03-29 22:44:12,132 INFO 5540 [Timer] /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 4547870ms at 2019-03-30 00:00:00.002
+2019-03-29 22:44:12,132 INFO 5540 [Timer] /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4548868ms at 2019-03-30 00:00:01.000
+2019-03-29 22:44:33,102 INFO 5552 [egg-schedule]: register schedule /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-03-29 22:44:33,102 INFO 5552 [egg-schedule]: register schedule /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-30 22:06:00,742 INFO 14554 [egg-schedule]: register schedule /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-30 22:06:00,742 INFO 14554 [egg-schedule]: register schedule /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-30 22:06:01,025 INFO 14549 [Timer] /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 6838979ms at 2019-05-01 00:00:00.004
+2019-04-30 22:06:01,025 INFO 14549 [Timer] /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 6839975ms at 2019-05-01 00:00:01.000
+2019-04-30 22:06:57,103 INFO 14577 [egg-schedule]: register schedule /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-30 22:06:57,103 INFO 14577 [egg-schedule]: register schedule /Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

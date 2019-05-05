@@ -1,0 +1,264 @@
+{
+  "keys": "/Users/zch/Desktop/zch_blog_backend/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+  "name": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "version": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "description": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "main": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+      "url": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+    },
+    "keywords": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "author": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "license": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "bugs": {
+      "url": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+    },
+    "homepage": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "strict": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+      "depth": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "env": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "level": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "logging": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+      "port": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/zch/Desktop/zch_blog_backend/node_modules/egg/config/config.default.js"
+}
